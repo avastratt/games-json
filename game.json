@@ -1,3 +1,4 @@
-game1 = {name: "Ransomware", description: "qwertyuiop"};
-game2 = {name: "Apache Shutdown", description: "asdfghjkl"};
-game1 = {name: "Email Dumper", description: "zxcvbnm"};
+{name: "Ransomware", description: "qwertyuiop"};
+{name: "Apache Shutdown", description: "asdfghjkl"};
+{name: "Email Dumper", description: "zxcvbnm"};
+
